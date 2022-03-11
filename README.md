@@ -11,8 +11,10 @@ Animated loading icons for Roblox GUIs.
 
 # How does it work?
 ## Structure
-- ImageLabel
--     UIGradient
--         LocalScript (Rotate.lua)
+```
+ImageLabel
+    UIGradient
+        LocalScript (Rotate.lua)
+```
 
 Rotate.lua uses TweenService to edit the Rotation of the UIGradient.
