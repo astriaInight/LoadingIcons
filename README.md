@@ -6,3 +6,5 @@ Animated loading icons for Roblox GUIs.
 - Colors are completely customizable (ImageColor3)
 - Rotation animation is customizable (Edit the TweenInfo in Rotate.lua)
 
+# Examples
+[](https://images-ext-1.discordapp.net/external/ZpyhbGsuBFW8XnssbCJ4pdPWuG1_FhXdaNA2RA49fI4/https/i.imgur.com/LBlTutu.mp4)
