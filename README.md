@@ -7,4 +7,12 @@ Animated loading icons for Roblox GUIs.
 - Rotation animation is customizable (Edit the TweenInfo in Rotate.lua)
 
 # Examples
-[https://images-ext-1.discordapp.net/external/ZpyhbGsuBFW8XnssbCJ4pdPWuG1_FhXdaNA2RA49fI4/https/i.imgur.com/LBlTutu.mp4]
+![Gif of loading icons](https://images-ext-1.discordapp.net/external/ZpyhbGsuBFW8XnssbCJ4pdPWuG1_FhXdaNA2RA49fI4/https/i.imgur.com/LBlTutu.mp4)
+
+# How does it work?
+## Structure
+- ImageLabel
+-     UIGradient
+-         LocalScript (Rotate.lua)
+
+Rotate.lua uses TweenService to edit the Rotation of the UIGradient.
